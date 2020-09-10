@@ -1,2 +1,5 @@
+# BEGIN ANSIBLE MANAGED BLOCK
+"15:39:32 2020-09-10 Thursday - 3rd event"
+# END ANSIBLE MANAGED BLOCK
 16:22 10 Sep 2020 - first event
 17:56 10 Sep 2020 - second event
